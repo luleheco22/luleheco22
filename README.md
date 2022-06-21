@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luleheco22&label=Profile%20views&color=0e75b6&style=flat" alt="luleheco22" /> </p>
 
-- 🌱 I’m currently learning **React Native, Next.js, Typescript**
+- 🌱 I’m currently learning **React Native, Next.js, Typescript, MaterialUI, MongoDB**
 
-- 📫 How to reach me **leonelhcontreras@gmail.com**
+- 📫 Contact me **leonelhcontreras@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
